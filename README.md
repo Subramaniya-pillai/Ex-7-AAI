@@ -1,4 +1,4 @@
-<H4>Name: Subramaniya Pillai B/H4>
+<H4>Name: Subramaniya Pillai B</H4>
 <H4>Register no.: 212221230109</H4>
 <H4>EX. NO.7</H4>
 <H4>DATE: 28.10.24</H4>
